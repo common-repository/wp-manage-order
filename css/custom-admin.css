@@ -1,0 +1,30 @@
+.column-menu_order_custom {
+	width: 40px;
+}
+
+.btn-order {
+	width: 40px;
+	height: 40px;
+	background:url(../images/btn-dd.gif);
+	text-align: center;
+	line-height: 40px;
+	color: #ccc;
+}
+
+td.column-menu_order_custom {
+  cursor:move;
+}
+
+
+.ui-sortable-helper {
+	background-color:#ffc;	
+}
+
+span.subtitle,
+.search-box,
+.screen-options,
+#posts-filter .tablenav select[name=m],
+#posts-filter .tablenav select[name=cat],
+#posts-filter .tablenav #post-query-submit{
+   display:none;
+}

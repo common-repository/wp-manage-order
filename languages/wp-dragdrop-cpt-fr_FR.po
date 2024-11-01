@@ -1,0 +1,33 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: in french\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-26 18:25+0100\n"
+"PO-Revision-Date: 2014-02-19 16:12+0100\n"
+"Last-Translator: yves <yves.berrou@netcourrier.com>\n"
+"Language-Team: YB <aaa@aaa.aa>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: W:\\xxxxxxx\\wp-content\\plugins\\wp-basic-form\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Language: fr\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Order options"
+msgstr "Ordre options"
+
+msgid "Options successffully updated"
+msgstr "Options mises à jour"
+
+msgid "Post types"
+msgstr "Types de contenus"
+
+msgid "Hook sample"
+msgstr "Exemple de hook"
